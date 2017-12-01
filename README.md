@@ -8,6 +8,8 @@
 // 必填，不能超过512字节
 <meta name="bainu-share-title" content="我的标题" />
 // 选填
+<meta name="bainu-share-url" content="http://www.example.com" />
+// 选填
 <meta name="bainu-share-image" content="http://www.example.com/icon.jpg" />
 // 选填，不能超过1kb
 <meta name="bainu-share-desc" content="我的描述内容" />
@@ -18,6 +20,8 @@
 ```
 // 必填，不能超过512字节
 <meta name="wechat-share-title" content="我的标题" />
+// 选填
+<meta name="wechat-share-url" content="http://www.example.com" />
 // 选填，图片大小不能超过32kb
 <meta name="wechat-share-image" content="http://www.example.com/icon.jpg" />
 // 选填，不能超过1kb
